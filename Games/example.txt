@@ -1,0 +1,2 @@
+title [ your game name}.zip
+upload a zip containing the .g3a file and an about file
